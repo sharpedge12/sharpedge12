@@ -113,7 +113,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/sharpedge12/sharpedge12/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
