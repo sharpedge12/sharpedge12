@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="154" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="154" src="https://avatars.pfptown.com/224/luffy-pfp-4293.png"  />
 
 ###
 
