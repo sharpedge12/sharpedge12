@@ -1,3 +1,5 @@
+![banner](https://github.com/sharpedge12/sharpedge12/blob/95e9b1d3a2c4ecfe3f493b12c96fe75e7e9369f7/banner.gif)
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F66E8D&center=true&vCenter=true&random=false&width=800&height=75&lines=Hi+%F0%9F%91%8B!+My+name+is+Anshul+Sharma.+Im+a+Computer+Science+Student;I+love+Web+development+and+Competitive+coding+." alt="Typing SVG" /></a>
   </div>
